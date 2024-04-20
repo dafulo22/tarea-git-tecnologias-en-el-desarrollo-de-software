@@ -9,5 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ClassGit {
 
 	private String classGit;
+	private String commitSecond;
+	private String changeTwo;
 
 }
